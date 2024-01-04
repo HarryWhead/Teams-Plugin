@@ -27,3 +27,5 @@ This plugin is a player-usable teams plugin, which has commands for players to c
 
 All these commands are pretty self-explanatory, and with the admin commands, you can set the max group limit, take off friendly fire, add lightning when players die etc.
 All these groups are stored in data files, so when the server resets or goes down for the night, the player data is saved and teams stay the same.
+
+<img width="756" alt="image" src="https://github.com/HarryWhead/Teams-Plugin/assets/155663967/937b89b7-33dc-472a-aec6-e8e9e913d01d">
