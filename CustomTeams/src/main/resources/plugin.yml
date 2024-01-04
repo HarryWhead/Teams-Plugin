@@ -1,0 +1,9 @@
+name: CustomTeams
+version: '${project.version}'
+main: customteams.customteams.CustomTeams
+api-version: '1.19'
+commands:
+  group:
+    usage: /group
+  gadmin:
+    usage: /gadmin

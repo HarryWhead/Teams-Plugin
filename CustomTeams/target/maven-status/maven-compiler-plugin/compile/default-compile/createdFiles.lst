@@ -1,0 +1,12 @@
+customteams\customteams\Groups\Group.class
+customteams\customteams\Commands\AdminCommandMethods.class
+customteams\customteams\Commands\CommandTabCompleter.class
+customteams\customteams\CustomConfig\ReinstateConfig.class
+customteams\customteams\Commands\AdminCommandTabCompleter.class
+customteams\customteams\Listener\Listener.class
+customteams\customteams\Commands\AdminCommands.class
+customteams\customteams\CustomConfig\CustomConfig.class
+customteams\customteams\Scoreboards\ScoreboardUtil.class
+customteams\customteams\CustomTeams.class
+customteams\customteams\Commands\TeamCommands.class
+customteams\customteams\Groups\GroupMethods.class
